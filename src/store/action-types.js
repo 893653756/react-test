@@ -1,0 +1,1 @@
+export const INCREMENT = "INCREMENT" // 加一
